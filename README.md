@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, React native, JWT and Backend**
 
-- 👨‍💻 All of my projects are available at [rowhasan446.github.io/3D-Portfolio/]((https://portfolio-rownak-hasan.vercel.app/))
+- 👨‍💻 All of my projects are available at [https://portfolio-rownak-hasan.vercel.app/]((https://portfolio-rownak-hasan.vercel.app/))
 
 - 💬 Ask me about **AI and Machine learning**
 
